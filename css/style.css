@@ -4,67 +4,85 @@
     width: 150px;
     display: inline-block;
 }
-.kolo{
+
+.kolo {
     border: solid black;
     height: 70px;
     width: 70px;
-    border-radius:100%;
+    border-radius: 100%;
     position: relative;
     top: 25%;
     left: 25%;
 }
-.red{
+
+.red {
     background-color: red;
 }
+
 .blue {
     background-color: blue;
 }
-.green{
+
+.green {
     background-color: green;
 }
-.yellow{
+
+.yellow {
     background-color: yellow;
 }
-.black{
+
+.black {
     background-color: black;
 }
+
 .orange {
     background-color: orange;
 }
+
 .purple {
     background-color: purple;
 }
+
 .grey {
     background-color: grey;
 }
-.pink{
+
+.pink {
     background-color: pink;
 }
 
-.jeden{
+.jeden {
     background-color: pink;
 }
-.dwa{
+
+.dwa {
     background-color: grey;
 }
-.trzy{
+
+.trzy {
     background-color: purple;
 }
-.cztery{
+
+.cztery {
     background-color: green;
 }
-.piec{
-    background-color: green;
-}
-.szesc{
-    background-color: blue;
-}
-.siedem{
+
+.piec {
     background-color: red;
 }
-.osiem{
+
+.szesc {
+    background-color: blue;
+}
+
+.siedem {
+    background-color: red;
+}
+
+.osiem {
     background-color: yellow;
 }
-.dziewiec{
+
+.dziewiec {
     background-color: black;
 }
