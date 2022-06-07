@@ -1,0 +1,70 @@
+.box {
+    border: 1px;
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+.kolo{
+    border: solid black;
+    height: 70px;
+    width: 70px;
+    border-radius:100%;
+    position: relative;
+    top: 25%;
+    left: 25%;
+}
+.red{
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
+.orange {
+    background-color: orange;
+}
+.purple {
+    background-color: purple;
+}
+.grey {
+    background-color: grey;
+}
+.pink{
+    background-color: pink;
+}
+
+.jeden{
+    background-color: pink;
+}
+.dwa{
+    background-color: grey;
+}
+.trzy{
+    background-color: purple;
+}
+.cztery{
+    background-color: green;
+}
+.piec{
+    background-color: green;
+}
+.szesc{
+    background-color: blue;
+}
+.siedem{
+    background-color: red;
+}
+.osiem{
+    background-color: yellow;
+}
+.dziewiec{
+    background-color: black;
+}
